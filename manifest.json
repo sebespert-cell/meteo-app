@@ -1,5 +1,5 @@
 {
-  "name": "Station Météo Saint-Sulpice",
+  "name": "Station Météo Saint-Sulpice" ,
   "short_name": "Météo",
   "start_url": "./index.html",
   "scope": "./",
